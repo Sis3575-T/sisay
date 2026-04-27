@@ -25,7 +25,7 @@ const Home = () => {
           animate={{ x: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          Student at Bahir Dar University | Aspiring Full Stack Developer | AI Machine Learning
+         Computer Science student Student at Bahir Dar University | Aspiring Full Stack Developer | 
         </motion.p>
         <motion.p
           className="hero-description"
@@ -33,7 +33,7 @@ const Home = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.4 }}
         >
-          Passionate software developer student with a strong interest in React, JavaScript, and modern web development. I enjoy building applications while continuously improving my skills.
+          Passionate software developer student with a strong interest in React, JavaScript, and modern web development,AI machin learning. I enjoy building applications while continuously improving my skills.
         </motion.p>
         <motion.div
           className="hero-buttons"

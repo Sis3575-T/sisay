@@ -13,7 +13,7 @@ const Header = () => {
         <span className="brand-mark">ST</span>
         <div>
           <p className="brand-label">Sisay Temesgen</p>
-          <p className="brand-subtitle">Aspiring Full Stack Developer | AI Machine Learning</p>
+          <p className="brand-subtitle">Aspiring Full Stack Developer | Strong desire in AI Machine Learning</p>
         </div>
       </div>
       <nav className="nav-links" aria-label="Primary navigation">
